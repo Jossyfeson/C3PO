@@ -1,7 +1,7 @@
 #!/usr/bin/bash
-1.	$ figlet Joseph
-3. 	$ mkdir compare
-$ wget https://www.bioinformatics.babraham.ac.uk/training/Introduction%20to%20Unix/unix_intro_data.tar.gz
+1.figlet Joseph
+3.mkdir compare
+wget https://www.bioinformatics.babraham.ac.uk/training/Introduction%20to%20Unix/unix_intro_data.tar.gz
 gunzip unix_intro_data.tar.gz 
 tar -xvf unix_intro_data.tar
 grep "rRNA" Mito.dat
