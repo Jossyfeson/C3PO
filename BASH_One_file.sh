@@ -1,6 +1,5 @@
 #! /bin/sh
 # BASH One story
-
 mkdir Joseph/
 mkdir biocomputing && cd biocomputing
 wget https://raw.githubusercontent.com/josoga2/dataset-repos/main/wildtype.fna
